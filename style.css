@@ -1,0 +1,18 @@
+body{
+    background: rgb(105, 109, 97)
+}
+    h1{
+        font-size: 60px;
+        color: black;
+    } 
+
+img{
+    width: 400px;
+}
+.cabecalho{
+background-color: aliceblue;
+}
+.lista_cabecalho{
+display: flex;
+margin-left: 200;
+}
